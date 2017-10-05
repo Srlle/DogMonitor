@@ -5,8 +5,8 @@
   "main": "dogMon.js",
   "dependencies": {
     "express": "^4.16.1",
-    "hbs": "^4.0.1",
-    "fs": "^0.0.1-security"
+    "fs": "0.0.1-security",
+    "hbs": "^4.0.1"
   },
   "devDependencies": {},
   "scripts": {
